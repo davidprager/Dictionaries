@@ -4,7 +4,7 @@ Assignment #10, Program 1
 Your name here
 """
 
-# This program retrieves weather information form the Internet and then delivers it to the user
+# This program retrieves weather information from the Internet and then delivers it to the user
 import urllib.request
 import xml.etree.ElementTree
 import ssl
